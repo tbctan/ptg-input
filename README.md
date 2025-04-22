@@ -30,7 +30,7 @@ Question
   - projwfc.pwi: Sample input file for projwfc.x calculation
   - lobsterin: LOBSTER input file to calculate interactions between Pt and O
 
-Kurt template
+<!-- Kurt template
 # Repository Contents
 
 This repository contains data associated with the corresponding publication. The repository is organized into the following subdirectories:
@@ -41,4 +41,4 @@ This repository contains data associated with the corresponding publication. The
 
 The analysis modules used for this project are part of the `VibIR-Parallel-Compute` package, which is available at the following link:
 
-[https://morikawa-lab-osakau.gitlab.io/vibir-parallel-compute/intro.html](https://morikawa-lab-osakau.gitlab.io/vibir-parallel-compute/intro.html)
+[https://morikawa-lab-osakau.gitlab.io/vibir-parallel-compute/intro.html](https://morikawa-lab-osakau.gitlab.io/vibir-parallel-compute/intro.html) -->
