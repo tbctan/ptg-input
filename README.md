@@ -13,7 +13,7 @@ This repository contains data associated with the publication and is organized i
   - `nscf.pwi`: Sample input file for nscf calculation
   - `dos.pwi`: Sample input file for dos.x calculation
   - `projwfc.pwi`: Sample input file for projwfc.x calculation
-  - `lobsterin`: LOBSTER input file to calculate interactions between Pt and O
+  - `lobsterin`: Sample LOBSTER input file to calculate interactions between Pt and O
 - **`thermo`**
   - `thermo.py`: Python script executed to obtain the entropy and zero point energy using the thermochemistry module of the Atomic Simulation Environment software package,implemented in QE 7.2. 
 
