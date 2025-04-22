@@ -17,18 +17,10 @@ This repository contains data associated with the publication and is organized i
   - `thermo.py`: Python script executed to obtain the entropy and zero point energy using the thermochemistry module of the Atomic Simulation Environment software package,implemented in QE 7.2. 
 
 
-# Delete after editing
 ## Questions
 - My scf and nscf inputs for DOS calculations use PAW-PBE to make the Lobster calculations possible. Bands were also increased to 170~200 depending on the required number. (GBRV USPP does not enable COHP via lobster.) How do we address this?
-- 
-
-- **`dos`**
-(Files correspond to the A7-3 + OH system)
-  - scf.pwi: Sample input file for scf calculation
-  - nscf.pwi: Sample input file for nscf calculation
-  - dos.pwi: Sample input file for dos.x calculation
-  - projwfc.pwi: Sample input file for projwfc.x calculation
-  - lobsterin: LOBSTER input file to calculate interactions between Pt and O
+- Output files to include
+- All input files, or just sample template?
 
 <!-- Kurt template
 # Repository Contents
