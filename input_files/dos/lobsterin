@@ -1,0 +1,6 @@
+cohpBetween atom 33 atom 44 orbitalWise
+
+COHPStartEnergy -12
+COHPEndEnergy 8
+basisSet Bunge
+includeOrbitals s p d f

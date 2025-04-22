@@ -1,0 +1,10 @@
+&DOS
+prefix           = '8cohc'
+outdir           = './tmpohc1'
+fildos = 'a73.8cohc.dos',
+ngauss = 0,
+degauss=0.012,
+Emin = -20.0,
+Emax = 50.0,
+DeltaE = 0.01,
+/
