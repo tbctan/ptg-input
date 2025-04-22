@@ -17,8 +17,8 @@ This repository contains data associated with the publication and is organized i
   - `thermo.py`: Python script executed to obtain the entropy and zero point energy using the thermochemistry module of the Atomic Simulation Environment software package,implemented in QE 7.2. 
 
 
-%%%%%%%%%%%%%%%%%% Delete after editing %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Question
+# Delete after editing
+## Questions
 - My scf and nscf inputs for DOS calculations use PAW-PBE to make the Lobster calculations possible. Bands were also increased to 170~200 depending on the required number. (GBRV USPP does not enable COHP via lobster.) How do we address this?
 - 
 
