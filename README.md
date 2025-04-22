@@ -2,7 +2,7 @@ This repository contains data associated with the publication and is organized i
 
 **`input_files/`**
 - **`opt`**
-  Contains sample pw.x input files for the following systems
+  (Contains sample pw.x input files for the following systems)
   - `ptg-agnr.pwi`: Structural optimization of A7-3 with adsorbed OH using the rev-vdW-DF2 functional.
   - `ptg-agnr-RPBE.pwi`: Self-consistent calculation using the RPBE functional using positions from the above calculation.
   - `ptg-zgnr.pwi`: Structural optimization of Z7-3 with adsorbed OH using the rev-vdW-DF2 functional.
