@@ -2,12 +2,13 @@ This repository contains data associated with the publication and is organized i
 
 **`input_files/`**
 - **`opt`**
-  - `ptg-agnr.pwi`: Sample pw.x input file for optimizing A7-3 with adsorbed OH using the rev-vdW-DF2 functional.
-  - `ptg-agnr-RPBE.pwi`: Sample pw.x input file for self-consistent calculation using the RPBE functional using positions from the prior calculation. This example is optimized A7-3 with adsorbed OH.
-  - `ptg-zgnr.pwi`: Sample pw.x input file for optimizing Z7-3 with adsorbed OH using the rev-vdW-DF2 functional.
-  - `ptg-zgnr-RPBE.pwi`: Sample pw.x input file for self-consistent calculation using the RPBE functional using positions from the prior calculation. This example is optimized Z7-3 with adsorbed OH.
+  Contains sample pw.x input files for the following systems
+  - `ptg-agnr.pwi`: Structural optimization of A7-3 with adsorbed OH using the rev-vdW-DF2 functional.
+  - `ptg-agnr-RPBE.pwi`: Self-consistent calculation using the RPBE functional using positions from the above calculation.
+  - `ptg-zgnr.pwi`: Structural optimization of Z7-3 with adsorbed OH using the rev-vdW-DF2 functional.
+  - `ptg-zgnr-RPBE.pwi`: Self-consistent calculation using the RPBE functional using positions from the above calculation.
 - **`dos`**
-(Files correspond to the A7-3 + OH system)
+(Files correspond to the A7-3 + OH system. These use the RPBE functional.)
   - `scf.pwi`: Sample input file for scf calculation
   - `nscf.pwi`: Sample input file for nscf calculation
   - `dos.pwi`: Sample input file for dos.x calculation
