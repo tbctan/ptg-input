@@ -21,4 +21,6 @@ This repository contains data associated with the publication and is organized i
 
 **`structure_files/`**
 - **`adsorbate_start_A5-2/`**: Contains starting adsorbate configurations as modeled on A5-2.
-- **`AGNR/`** and **`ZGNR/`**: Contains output structures of vdW relaxed structures in `.xsf` format, including final adsorbate structures calculated. 
+- **`AGNR/`** and **`ZGNR/`**: Contains output structures of vdW relax calculations in `.xsf` format, including final adsorbate structures calculated. 
+
+
