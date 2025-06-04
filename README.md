@@ -16,6 +16,8 @@ This repository contains data associated with the publication and is organized i
   - `lobsterin`: Sample LOBSTER input file to calculate interactions between Pt and O
 - **`thermo/`**
   - `thermo.py`: Python script executed to obtain the entropy and zero point energy using the thermochemistry module of the Atomic Simulation Environment software package,implemented in QE 7.2. 
+- **`GO/`**
+  - Contains GOFEE python run files and job scripts for structure search on A6-2 and A7-2.
 
 **`structure_files/`**
 - **`adsorbate_start_A5-2/`**: Contains starting adsorbate configurations as modeled on A5-2.
