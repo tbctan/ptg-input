@@ -22,5 +22,6 @@ This repository contains data associated with the publication and is organized i
 **`structure_files/`**
 - **`adsorbate_start_A5-2/`**: Contains starting adsorbate configurations as modeled on A5-2.
 - **`AGNR/`** and **`ZGNR/`**: Contains output structures of vdW relax calculations in `.xsf` format, including final adsorbate structures calculated. 
+- **`solvation_Z7-3/`**: Contains water dimer and water + adsorbate configurations as modeled on Z7-3.
 
 
